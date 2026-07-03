@@ -1,6 +1,8 @@
 # template-basic-inferno-vite
 Basic template made with InfernoJS, Vite, and Tailwind.
 
+![Screenshot](/screenshot.png)
+
 ## Introduction
 This guide provides a lightweight, highly efficient single-page application (SPA) template using Inferno JS and Tailwind CSS, built with Vite, along with seamless step-by-step instructions to deploy to an Apache static server.
 
