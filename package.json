@@ -1,0 +1,32 @@
+{
+  "name": "template-basic-inferno-vite",
+  "version": "0.0.1",
+  "description": "Basic template made with InfernoJS, Vite, and Tailwind.",
+  "homepage": "https://github.com/blazed-space/template-basic-inferno-vite#readme",
+  "bugs": {
+    "url": "https://github.com/blazed-space/template-basic-inferno-vite/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blazed-space/template-basic-inferno-vite.git"
+  },
+  "license": "MIT",
+  "author": "blazed-space",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "inferno": "^9.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.2",
+    "babel-plugin-inferno": "^6.9.0",
+    "tailwindcss": "^4.3.2",
+    "vite": "^8.1.3",
+    "vite-plugin-babel": "^1.7.3"
+  }
+}
